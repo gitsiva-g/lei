@@ -1,0 +1,6 @@
+https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/
+
+
+https://kubernetes.io/docs/tutorials/hello-minikube/
+
+https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home
