@@ -1,0 +1,5 @@
+Let’s start your introduction to the world of Linux by covering some of the basics.
+First, we’ll talk about the Linux foundation and what we do.
+Then, we’ll talk about the logistics of this online course.
+And finally, if you haven’t done so already, we’ll walk you through the process of choosing a Linux distribution that’s right for you.
+Let’s get started.
